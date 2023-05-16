@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sonisetiawan1412510404
+- 👋 Hi, I’m Soni Setiawan
 - 👀 I’m interested in programming and database management 
-- 🌱 I’m currently learning Backend Enginer
 - 💞️ I’m looking to collaborate on git
-- 📫 How to reach me sonibts663@gmail.com
+- 📫 How to reach me sonisetiawan.budiluhur@gmail.com
+- Reach me at 082122902859
 
 <!---
 sonisetiawan1412510404/sonisetiawan1412510404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
